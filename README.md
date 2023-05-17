@@ -1,6 +1,8 @@
 # Zequetto_Education
 
-Quem somos:
+## Website para aprentar o profissional, proposta de trabalho e parcerias.
+
+### Quem sou:
 Antonio Cleber Zequetto
 
 * Professor Doutor em Culturas Contemporâneas
